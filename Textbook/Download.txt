@@ -1,0 +1,4 @@
+http://eloquentjavascript.net/Eloquent_JavaScript.pdf
+http://eloquentjavascript.net/
+
+https://github.com/amilajack/reading/blob/master/JavaScript/Learning%20Javascript%20Data%20Structures%20and%20Algorithms.pdf
