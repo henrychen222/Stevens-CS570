@@ -1,0 +1,13 @@
+Which of the following are true when running the same alpabet and frequencies through 2 different implementation of the Huffman coding algorithm?
+
+All symbols in the alpabet will have the same length encoding.
+
+The length of coded message will be the same
+
+All coding will have a unique prefix
+
+Symbols will have either will have the same encoding or the bitwise not of the encoding(1101 or 0010)
+
+All Symbols in the alpabet will have the same encoding
+
+The entire encoing will be identical

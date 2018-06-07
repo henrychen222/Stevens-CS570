@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Connected_component_(graph_theory)
+https://www.geeksforgeeks.org/connected-components-in-an-undirected-graph/
+https://www.geeksforgeeks.org/strongly-connected-components/

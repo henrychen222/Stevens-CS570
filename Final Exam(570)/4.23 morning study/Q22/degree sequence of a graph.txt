@@ -1,0 +1,3 @@
+http://mathworld.wolfram.com/DegreeSequence.html
+
+https://en.wikipedia.org/wiki/Degree_(graph_theory)
